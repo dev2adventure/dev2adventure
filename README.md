@@ -4,4 +4,3 @@
 - ☁️ I'm a Juniper Networks certified cloud engineer
 - 🛠️ I'm a fullstack developer
 - 🏢 I'm the founder of the 2adventure Studios Ltd
-- 🙋‍♂️ Pronouns: he/him
